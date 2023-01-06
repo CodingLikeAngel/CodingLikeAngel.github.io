@@ -105,7 +105,7 @@ h1 {
   .word:nth-of-type(4) {
     padding: 0 2rem;
   
-    animation-delay: 5.5s;
+    animation-delay: 6.5s;
   
     color: rgb(219, 199, 84);
   }
@@ -113,7 +113,7 @@ h1 {
   .word:nth-of-type(5) {
     padding: 0 2rem;
   
-    animation-delay: 7.5s;
+    animation-delay: 10.5s;
     
     color: gold;
   }
