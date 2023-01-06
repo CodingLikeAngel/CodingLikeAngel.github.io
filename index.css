@@ -127,6 +127,14 @@ h1 {
   }
 
 
+  .word:nth-of-type(7) {
+    padding: 0 2rem;
+  
+    animation-delay: 10.5s;
+    
+    color: gold;
+  }
+
 .superscript {
   position: relative;
   animation-delay: 4.6s;
