@@ -110,9 +110,6 @@ h1 {
     color: rgb(219, 199, 84);
   }
 
-
-
-
   .word:nth-of-type(5) {
     padding: 0 2rem;
   
@@ -121,8 +118,6 @@ h1 {
     color: gold;
   }
 
-
-  
   .word:nth-of-type(6) {
     padding: 0 2rem;
   
