@@ -80,16 +80,19 @@ h1 {
   animation-timing-function: cubic-bezier(0.14, 1.23, 0.33, 1.16);
   opacity: 0;
 
+color: rgb(31, 103, 236);
   transform: rotateX(120deg);
   transform-origin: 50% 100%;
 }
+
+
 
 .word:nth-of-type(2) {
   padding: 0 2rem;
 
   animation-delay: 1.5s;
 
-  color: greenyellow;
+  color: rgb(177, 13, 169);
 }
 
 .word:nth-of-type(3) {
@@ -97,7 +100,7 @@ h1 {
   
     animation-delay: 3.5s;
   
-    color:goldenrod;
+    color:rgb(248, 52, 160);
   }
 
 
@@ -117,7 +120,7 @@ h1 {
   
     animation-delay: 7.5s;
   
-    color: rgb(240, 20, 210);
+    color: rgb(13, 226, 84);
   }
 
 
