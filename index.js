@@ -1,14 +1,12 @@
 
 
 setInterval(function(){
-    document.querySelector("body").style.display = "none";
-    document.querySelector("body").remove();
-
-    var newBody = document.createElement("body");
-    document.querySelector("html").appendChild(newBody);
+   
+    document.querySelector("body div:first-of-type").remove();
+    var newBody = document.createElement("div");
+    document.querySelector("body").appendChild(newBody);
     
     newBody.innerHTML = `
-    <img src="baila.gif" alt="Descripción del GIF">
     <h1>
         <span class="word">Clarabirubi</span>
         <span class="word">Clarabiruba</span>
